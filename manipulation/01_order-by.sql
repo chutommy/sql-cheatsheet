@@ -13,7 +13,7 @@ order by
   last_name asc,
   first_name desc;
 
--- order by expression
+-- expression
 select
   product,
   price,
@@ -24,7 +24,7 @@ from
 order by
   total desc;
 
--- order by custom field values
+-- custom field values
 select
   package_id,
   destination,

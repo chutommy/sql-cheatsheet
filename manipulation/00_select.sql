@@ -1,7 +1,7 @@
---  select statement
+--  select
 -- from -> select
 
---  basic query
+--  select
 select
   first_name,
   last_name,
@@ -9,7 +9,7 @@ select
 from
   students;
 
---  select all columns
+-- all columns
 select
   *
 from
