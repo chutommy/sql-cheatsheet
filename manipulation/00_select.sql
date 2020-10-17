@@ -1,5 +1,6 @@
 --  select
 -- from -> select
+-- query table
 
 --  select
 select

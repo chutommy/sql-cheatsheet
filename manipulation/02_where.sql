@@ -1,6 +1,7 @@
 -- where
 -- select, update, delete
 -- from -> where -> select -> order by
+-- filter results (with condition)
 
 -- select where
 select
