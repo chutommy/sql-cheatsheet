@@ -7,6 +7,7 @@
 --  FALSE	false	false	false
 --  NULL	null	false	null
 
+-- short-circuit evaluation
 --  select (1 = 0) and (1 / 0);
   -- sql evaluates only the first expression (false)
   -- does not print error
