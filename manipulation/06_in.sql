@@ -9,7 +9,7 @@
 --      (expr|column_1) [NOT] IN ('value1','value2',...);
 
 select
-  office_id,
+  id,
   city
 from
   offices
@@ -17,10 +17,10 @@ where
   country in ("USA", "UK", "Czech")
   or salary * employees > 1000000
 order by
-  ofice_id asc;
+  id asc;
 
 select
-  office_id,
+  id,
   city
 from
   offices
@@ -29,7 +29,7 @@ where
 
 -- in with subquery
 select
-  delivery_id,
+  id,
   package_id,
   destination
 from

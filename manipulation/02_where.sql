@@ -12,8 +12,8 @@
 
 -- select where
 select
-  first_name,
-  last_name
+  firstname,
+  lastname
 from
   users
 where
@@ -21,18 +21,18 @@ where
 
 -- and
 select
-  first_name,
-  last_name
+  firstname,
+  lastname
 from
   users
 where
-  first_name = 'John'
-  and last_name = 'Smith';
+  firstname = 'John'
+  and lastname = 'Smith';
 
 -- or
 select
-  first_name,
-  last_name
+  firstname,
+  lastname
 from
   users
 where
@@ -43,8 +43,8 @@ order by
 
 -- between
 select
-  first_name,
-  last_name
+  firstname,
+  lastname
 from
   users
 where

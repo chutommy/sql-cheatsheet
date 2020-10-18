@@ -7,8 +7,8 @@
 
 --  select
 select
-  first_name,
-  last_name,
+  firstname,
+  lastname,
   age
 from
   students;

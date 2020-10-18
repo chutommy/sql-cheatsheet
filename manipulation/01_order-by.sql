@@ -13,15 +13,15 @@
 
 -- order selection
 select
-  first_name,
-  last_name,
+  firstname,
+  lastname,
   age
 from
   students
 order by
   age, -- asc by default
-  last_name asc,
-  first_name desc;
+  lastname asc,
+  firstname desc;
 
 -- expression
 select
@@ -36,7 +36,7 @@ order by
 
 -- custom field values
 select
-  package_id,
+  id,
   destination,
   status
 from

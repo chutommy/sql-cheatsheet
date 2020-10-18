@@ -37,11 +37,11 @@ where
 
 -- custom escape clause
 select
-  student_id,
+  id,
   firstname,
   lastname
 from
   students
 where
-  student_id like '%\_2014';
+  id like '%\_2014';
 -- student_id like '%$_2014' escape '$';
