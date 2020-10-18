@@ -1,6 +1,11 @@
 -- distinct
 -- removes duplicates
 
+--  SELECT DISTINCT
+--      select_list
+--  FROM
+--      table_name;
+
 -- select distinct
 select distinct
   segment

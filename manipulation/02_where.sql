@@ -3,6 +3,13 @@
 -- from -> where -> select -> order by
 -- filter results (with condition)
 
+--  SELECT 
+--      select_list
+--  FROM
+--      table_name
+--  WHERE
+--      search_condition;
+
 -- select where
 select
   first_name,

@@ -2,6 +2,9 @@
 -- from -> select
 -- query table
 
+--  SELECT select_list
+--  FROM table_name;
+
 --  select
 select
   first_name,

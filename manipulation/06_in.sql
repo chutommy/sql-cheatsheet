@@ -1,6 +1,13 @@
 -- in
 -- return if column's value or expression is in the set (item1, item2, ...)
 
+--  SELECT 
+--      column1,column2,...
+--  FROM
+--      table_name
+--  WHERE 
+--      (expr|column_1) IN ('value1','value2',...);
+
 select
   office_id,
   city
