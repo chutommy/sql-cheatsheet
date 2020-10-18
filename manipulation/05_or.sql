@@ -1,5 +1,4 @@
 -- or
-
 -- used in where (select, update, delete) + (inner join, left join)
 
 --          TRUE	FALSE	NULL
