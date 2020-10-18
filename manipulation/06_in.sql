@@ -6,7 +6,7 @@
 --  FROM
 --      table_name
 --  WHERE 
---      (expr|column_1) IN ('value1','value2',...);
+--      (expr|column_1) [NOT] IN ('value1','value2',...);
 
 select
   office_id,
