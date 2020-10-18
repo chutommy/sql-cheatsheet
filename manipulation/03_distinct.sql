@@ -1,5 +1,5 @@
 -- distinct
--- removes duplicates
+-- eliminate duplicate rows
 
 --  SELECT DISTINCT
 --      select_list

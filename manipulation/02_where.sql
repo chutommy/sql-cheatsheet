@@ -1,7 +1,7 @@
 -- where
+-- filter rows from the result
 -- select, update, delete
 -- from -> where -> select -> order by
--- filter results (with condition)
 
 --  SELECT 
 --      select_list

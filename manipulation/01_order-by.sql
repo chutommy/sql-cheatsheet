@@ -1,6 +1,6 @@
 --  order by
+-- sort the result set
 -- from -> select -> order
--- order results output
 
 --  SELECT 
 --     select_list

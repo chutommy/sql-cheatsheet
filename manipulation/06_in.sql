@@ -1,5 +1,5 @@
 -- in
--- return if column's value or expression is in the set (item1, item2, ...)
+-- determine if value or expression is in the set (item1, item2, ...)
 
 --  SELECT 
 --      column1,column2,...

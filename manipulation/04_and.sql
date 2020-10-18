@@ -1,4 +1,5 @@
 -- and
+-- combine multiple boolean
 -- used in where (select, update, delete) + (inner join, left join)
 
 --  boolean_expression_1 AND boolean_expression_2

@@ -1,6 +1,6 @@
 --  select
+-- query data from the table
 -- from -> select
--- query table
 
 --  SELECT select_list
 --  FROM table_name;
