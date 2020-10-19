@@ -1,0 +1,4 @@
+-- derived table
+-- virtual table returned from a SELECT statement
+  -- subquery in FROM clause of SELECT statement\
+-- must have its own alias
